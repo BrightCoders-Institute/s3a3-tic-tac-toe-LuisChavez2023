@@ -6,8 +6,8 @@
 - **Organización.** [Individual](https://github.com/BrightCoders-Institute/handbook/wiki/Actividades#actividades-individuales-as%C3%ADncronas)
 - **Modo.** [Asíncrono](https://github.com/BrightCoders-Institute/handbook/wiki/Actividades#actividades-individuales-as%C3%ADncronas)
 - **Estrategia.** Programación individual
-- **Duración.** 4 días
-- **Dedicación.** 1.5 horas diarias (6 horas total)
+- **Duración.** 3 días
+- **Dedicación.** 1.5 horas diarias (4.5 horas total)
 
 # Implementación del juego Tic Tac Toe (Gato)
 
@@ -34,10 +34,13 @@ Esta actividad tiene como objetivos:
 
 # 📋 Instrucciones
 
+- Los equipos trabajarán de manera colaborativa aplicando la dinámica de mob programming para desarrollar el algoritmo de acuerdo con los requerimientos indicados en las siguientes secciones.
 - Utilizando Ruby, se desarrollará una solución completa.
 - Se utilizará RuboCop para garantizar la consistencia y legibilidad del código, siguiendo las mejores prácticas y convenciones de estilo de Ruby.
 - Se utilizarán **RubyCritic y Reek** para analizar el código y utilizar los resultados para hacer mejoras.
 - La solución deberá seguir el enfoque orientado a objetos.
+- Se fomentará la rotación de los participantes en los commits, promoviendo una participación equitativa y una responsabilidad compartida.
+- En cada commit realizado, se registrarán todos los participantes activos a través de co-author commits.
 - Se pondrá en práctica el concepto de desarrollo basado en pruebas utilizando RSpec o MiniTest.
 - Se aplicará el concepto de commits significativos.
 - Se aplicarán principios de buena calidad de código como SOLID, DRY, KISS, YAGNI, etc.

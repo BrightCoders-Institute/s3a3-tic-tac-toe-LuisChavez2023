@@ -1,18 +1,47 @@
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/trvKHHEc)
 ![BrightCoders Logo](img/logo.png)
 
 # 🥷 Reto de Programación
-## Implementación del juego Tic Tac Toe (Gato)
+# The tic-tac-toe game
 
-> [Ver instrucciones antes de iniciar](./instructions.md)
+> [Read Instructions](./instructions.md)
 
-This README would normally document whatever steps are necessary to get the application up and running.
+## Table of contents
+  - [Description](#Description)
+  - [How to Run the Project](#How-to-Run-the-Project)
+  - [How to Use the Project](#How-to-Use-the-Project)
+  - [Credits](#Credits)
 
-Things you may want to cover:
+## Description. 
+This is a repository of the execution of the game of three in lightning in the ruby programming language using rubocop,rspec,rubycritic and reek..
 
-- Title or Project Name
-- Table of contents
-- Description. A brief description of what the project is about
-- How to Install and Run the Project.
-- How to Use the Project.
-- Credits
-- Badges
+
+## How to Run the Project
+```
+ruby TicTacToeRuby.rb
+```
+
+## How to Use the Project
+### Use Rubocop
+```
+rubocop <TicTacToeRuby.rb>.rb
+```
+### Use rspec (for test)
+```
+rspec /spec/spec_test.rb
+```
+### Use rubycritic (app)
+```
+rubycritic app TicTacToeRuby.rb
+```
+### Use rubycritic (for test)
+```
+rubycritic /spec/spec_test.rb
+```
+### Use reek
+```
+reek
+```
+
+## Credits
+- [@LuisChavez2023](https://github.com/LuisChavez2023)
